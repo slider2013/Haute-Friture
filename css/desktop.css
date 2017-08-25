@@ -1,0 +1,88 @@
+@media screen and (min-width: 1023px) and (min-height: 670px){
+body{
+	background-image:url(../images/bricks.png);
+}
+h1{
+	font-size:70px;
+}
+h4{
+	font-size:50px;	
+}
+#desk_menu_div{
+	display:block;	
+}
+#desk_menu_div img{
+	width:600px;
+	height:15px;
+}
+#content{
+	padding-left:10%;
+	width: 40%;
+}
+aside{
+	width: 40%;
+}
+#desk_tab_nav .social{
+	display:none;	
+}
+#long_boarder{
+	display:none;
+}
+
+#menu_table table {
+	
+}
+#desk_tab_nav{
+	margin:0 auto;
+	float:none;
+	display:inline;
+}
+#tab_desk_menu {
+	text-align: center;
+}
+#desk_tab_nav li{
+	display:inline;
+}
+#desk_tab_nav li h2{
+	display:inline;
+}
+#wrapper{
+	-webkit-box-shadow: 8px 11px 24px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 11px 24px 0px rgba(0,0,0,0.75);
+	box-shadow: 8px 11px 24px 0px rgba(0,0,0,0.75);
+	background-image:url(../images/blackboard_desk.jpg);
+	max-width:1050px;
+	border:50px solid transparent;
+	border-image:url(../images/wooden_frame.png) 50 50 round;	
+}
+aside p {
+margin: 30px;
+font-size: 22px;
+}
+footer{
+	clear:both;
+	display:block;
+	position:relative;
+}
+#mob_footer_nav{
+	display:block;
+}
+#hor_border{
+	display:none;
+}
+#menu{
+	display:none;
+}
+#address{
+	height:10px	
+}
+#om_txt{
+	width:40%;
+	padding-left:10%;
+}
+iframe{
+	margin-left:20%;
+}
+#map_adress{
+	width:40%;
+}

@@ -1,0 +1,30 @@
+html, body{
+	color:#FFF !important;
+	background-image:url(../../images/blackboard_desk.jpg);
+}
+form{
+	margin-bottom:10px;
+}
+
+#formwrapper{
+	margin:0 auto;
+	max-width:900px;
+	padding:40px;
+}
+footer{
+	display: -webkit-inline-box !important;
+	text-align:center;	
+	float:left;
+}
+footer form{
+	margin-top:25px;
+	margin-right:15px;
+}
+#img{
+	text-align:center;
+	
+}
+#img img{
+	max-width:200px;
+	height:auto;
+}

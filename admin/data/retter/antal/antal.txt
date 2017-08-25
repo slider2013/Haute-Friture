@@ -1,0 +1,1 @@
+a:2:{s:10:"totalantal";s:3:"500";s:5:"antal";i:150;}
